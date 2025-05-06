@@ -1,6 +1,6 @@
-# 📊 Análise de Campanhas de Marketing no Instagram — Projeto de Data Analytics
+# 📊 Análise de Campanhas de Marketing 
 
-Este projeto tem como objetivo analisar os dados de campanhas da empresa fictícia MYK Marketing, especializada em tráfego pago, para responder perguntas estratégicas relacionadas ao engajamento de conteúdo no Instagram.
+Este projeto tem como objetivo analisar os dados de campanhas da empresa fictícia MYK Marketing, especializada em tráfego pago, para responder perguntas estratégicas relacionadas ao engajamento de conteúdo.
 
 ## 🧠 Contexto do Projeto
 
@@ -15,6 +15,8 @@ A MYK Marketing está enfrentando desafios com o engajamento de campanhas no Ins
 4)Qual o valor médio de engajamento por hashtag, controlando por plataforma e região?
 
 5)Quais características se repetem entre os posts de alto engajamento?
+
+
 ---
 
 ## 🗂️ Estrutura do Projeto
