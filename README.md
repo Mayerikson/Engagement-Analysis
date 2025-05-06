@@ -55,3 +55,4 @@ Com base nos insights obtidos, foi elaborado um plano de ação utilizando a fer
 - Criar um dashboard em tempo real com métricas de engajamento.
 
 ---
+obs: esse projeto foi inspitado no desafio do Kaggle:https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis/data
