@@ -50,15 +50,64 @@ A análise é conduzida com base em dados históricos das campanhas para respond
 
 ## 📈 Principais Descobertas
 
-- **Hashtags estratégicas** aumentam significativamente a performance.
-- A análise permitiu criar um plano de ação baseado em dados para otimizar futuras campanhas.
+Tipos de conteúdo com maior pontuação média de engajamento por plataforma:
+
+Instagram: Live Stream (338.76)
+
+TikTok: Shorts (664.10)
+
+Twitter: Vídeo (213.05)
+
+YouTube: Live Stream (322.34)
+
+Variáveis mais relevantes na previsão de alto engajamento: Hashtag, Região, Tipo de Conteúdo
+
+Nenhuma variável categórica teve associação forte isoladamente
+
+Melhores combinações identificadas:
+Shorts + USA (Efeito: 3.29)
+
+Shorts + Brazil (0.83)
+
+Vídeo + Brazil (0.80)
+
+TikTok apresenta maior variabilidade no engajamento (σ = 8.068)
+
+Hashtags têm impacto variável dependendo da plataforma e região
+
+Likes_per_View (0.40) → Forte indicador de popularidade
+
+Engagement_per_View (0.38) → Reflete qualidade da interação
+
+Views (0.17) → Importante para alcance, mas não decisivo sozinho
 
 ---
 
 ## ✅ Conclusões e Recomendação
 
-Com base nos insights obtidos, foi elaborado um plano de ação utilizando a ferramenta 5W2H para orientar o time de marketing sobre como aumentar o ROI das campanhas. 
-A abordagem orientada a dados permite decisões mais seguras e eficientes para futuras publicações.
+Priorizar vídeos e lives em plataformas com boa performance.
+
+Realizar testes A/B para confirmar performance dos formatos.
+
+Redirecionar investimento para canais com melhor ROI.
+
+Implementar segmentação geográfica com conteúdo adaptado
+
+Explorar as hashtags com maior correlação com engajamento alto
+
+Personalizar campanhas por cluster regional
+
+Testar campanhas piloto com as sinergias destacadas
+
+Priorizar hashtags no top 10 de desempenho (ajustado por plataforma)
+
+Realizar testes A/B em plataformas com alta variabilidade como o TikTok
+
+Otimizar posts com maior taxa de curtidas por visualização
+
+Focar em qualidade da interação mais do que quantidade
+
+
 
 ---
 
