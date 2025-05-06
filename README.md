@@ -4,7 +4,17 @@ Este projeto tem como objetivo analisar os dados de campanhas da empresa fictíc
 
 ## 🧠 Contexto do Projeto
 
-A MYK Marketing está enfrentando desafios com o engajamento de campanhas no Instagram, que afetam diretamente a percepção de valor do serviço oferecido. A análise é conduzida com base em dados históricos das campanhas para responder às seguintes perguntas:
+Este estudo tem como foco principal a análise de engajamento nas campanhas digitais, entendendo que o engajamento é um indicador antecipado de performance e influência direta no ROI.
+
+Embora o retorno financeiro (ROI) não tenha sido mensurado diretamente neste projeto, ele será abordado em uma próxima etapa.
+
+A proposta atual visa identificar padrões de alto engajamento, os quais serão base para estratégias que maximizem o ROI em futuras campanhas.
+
+A literatura de marketing digital e casos anteriores demonstram que campanhas com maior engajamento têm mais chance de conversão em receita.
+
+Assim, os padrões identificados aqui como o uso de vídeos, hashtags específicas e foco regional têm potencial de elevar o ROI, sendo recomendados para testes em campanhas futuras com acompanhamento de KPIs financeiros.
+
+A análise é conduzida com base em dados históricos das campanhas para responder às seguintes perguntas:
 
 1)Quais formatos de postagens geram o maior volume de engajamento absoluto?
 
