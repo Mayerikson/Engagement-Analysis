@@ -6,12 +6,15 @@ Este projeto tem como objetivo analisar os dados de campanhas da empresa fictíc
 
 A MYK Marketing está enfrentando desafios com o engajamento de campanhas no Instagram, que afetam diretamente a percepção de valor do serviço oferecido. A análise é conduzida com base em dados históricos das campanhas para responder às seguintes perguntas:
 
-1. Qual o tipo de post com maior engajamento?
-2. As hashtags influenciam no engajamento? Quais funcionam melhor?
-3. Qual o melhor horário e dia para publicar?
-4. O uso de vídeos e carrosséis impacta o desempenho?
-5. A presença de pessoas nas imagens influencia no resultado?
+1)Quais formatos de postagens geram o maior volume de engajamento absoluto?
 
+2)Quais combinações de conteúdo, região e hashtag maximizam o engajamento?
+
+3)Quais sinergias entre tipo de conteúdo e região devem ser exploradas?
+
+4)Qual o valor médio de engajamento por hashtag, controlando por plataforma e região?
+
+5)Quais características se repetem entre os posts de alto engajamento?
 ---
 
 ## 🗂️ Estrutura do Projeto
@@ -35,16 +38,15 @@ A MYK Marketing está enfrentando desafios com o engajamento de campanhas no Ins
 
 ## 📈 Principais Descobertas
 
-- Postagens com **vídeos e presença humana** apresentam engajamento superior.
 - **Hashtags estratégicas** aumentam significativamente a performance.
-- O **horário e o dia da semana** impactam diretamente nos resultados.
 - A análise permitiu criar um plano de ação baseado em dados para otimizar futuras campanhas.
 
 ---
 
 ## ✅ Conclusões e Recomendação
 
-Com base nos insights obtidos, foi elaborado um plano de ação utilizando a ferramenta 5W2H para orientar o time de marketing sobre como aumentar o ROI das campanhas. A abordagem orientada a dados permite decisões mais seguras e eficientes para futuras publicações.
+Com base nos insights obtidos, foi elaborado um plano de ação utilizando a ferramenta 5W2H para orientar o time de marketing sobre como aumentar o ROI das campanhas. 
+A abordagem orientada a dados permite decisões mais seguras e eficientes para futuras publicações.
 
 ---
 
